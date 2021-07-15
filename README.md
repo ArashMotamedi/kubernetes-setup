@@ -12,4 +12,4 @@ A high availability multi region Kubernetes consists of the following infrastruc
 * Traffic manager to send traffic to the closest region
 
 
-![image](https://user-images.githubusercontent.com/9794140/125736254-93543bb2-0b90-40b8-a3cd-38b9fbaf0015.png)
+![image](/diagrams/ha-multi-region-cluster.png)
